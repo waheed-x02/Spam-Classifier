@@ -38,8 +38,8 @@ Spam-Classifier/
 ├── train.py
 ├── app.py
 ├── spam.csv
-├── spam_model.pkl
-├── tfidf_vectorizer.pkl
+├── spam_classifier_model.pkl
+├── spam_classifier_vectorizer.pkl
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -90,7 +90,7 @@ Confusion Matrix:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/waheed-x02/Spam-Classifier.git
 ```
 
 Move into the project directory:
